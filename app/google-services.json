@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96920412589",
+    "firebase_url": "https://ashwin-blog-wv.firebaseio.com",
+    "project_id": "ashwin-blog-wv",
+    "storage_bucket": "ashwin-blog-wv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96920412589:android:1711b9cde682ccb9",
+        "android_client_info": {
+          "package_name": "ashwin.com.ashwinachari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96920412589-5q7q9veomelct18k5u41fn3pt5kucckr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashwin.com.ashwinachari",
+            "certificate_hash": "b9e2292396c0dcc32e61a4415fa60b95d172b120"
+          }
+        },
+        {
+          "client_id": "96920412589-9bskbjtv8rullpkhpfq2j5frqqoqguju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6sIAa__zZsEKGslMPIDYIY1h7VqCD0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96920412589-9bskbjtv8rullpkhpfq2j5frqqoqguju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
